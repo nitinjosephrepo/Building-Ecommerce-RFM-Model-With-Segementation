@@ -52,3 +52,5 @@ alienating customers who have been consistent but may not spend as much with eac
 
 <img width="819" alt="Screenshot 2023-02-16 at 9 57 51 PM" src="https://user-images.githubusercontent.com/80999165/219538951-7012271e-383e-4aea-a781-30f37ed419cd.png">
 
+## Use K-Means clustering to Segement Users into Loyal, 
+
