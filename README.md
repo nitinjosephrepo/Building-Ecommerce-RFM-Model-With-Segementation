@@ -60,3 +60,4 @@ alienating customers who have been consistent but may not spend as much with eac
 
 4-segment solution is a better choice because it provides more details, and we can immediately see the difference in RFMT values of those segments. In order to compare and understand our segments, we will create a snake plot and calculate relative importance of segment attributes. The snake plot is a visualization technique plotting segments and their RFMT values on a line plot. Relative importance of segments is the difference between our segments and overall population
 
+### We derive RFM for each customer and segement them into 
