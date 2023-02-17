@@ -52,5 +52,11 @@ alienating customers who have been consistent but may not spend as much with eac
 
 <img width="819" alt="Screenshot 2023-02-16 at 9 57 51 PM" src="https://user-images.githubusercontent.com/80999165/219538951-7012271e-383e-4aea-a781-30f37ed419cd.png">
 
-## Use K-Means clustering to Segement Users into Loyal, 
+## Use K-Means clustering to Segement Users into Behavourial Buckets
+
+#### Choose between 3 cluster solution or 4 Cluster Solutions
+
+<img width="1106" alt="Screenshot 2023-02-16 at 10 04 59 PM" src="https://user-images.githubusercontent.com/80999165/219539792-c4930c67-9109-4a70-9c02-e0c4fbd8e7d2.png">
+
+
 
