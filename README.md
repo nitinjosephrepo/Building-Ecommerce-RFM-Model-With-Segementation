@@ -34,3 +34,21 @@ efforts may be directed toward reminding them to visit the business when staple 
 Monetary value stems from how much the customer spends. A natural inclination is to put more emphasis on encouraging customers who spend the most 
 money to continue to do so. While this can produce a better return on investment (ROI) in marketing and customer service, it also runs the risk of 
 alienating customers who have been consistent but may not spend as much with each transaction. 
+
+## Visualizing Active, Retention & Churn Rate
+
+#### No. of Monthly Active Customers 
+
+
+<img width="818" alt="Screenshot 2023-02-16 at 9 58 08 PM" src="https://user-images.githubusercontent.com/80999165/219538775-79571e7e-94c5-4c7d-b827-d97e3536b334.png">
+
+
+#### Monthly Retention Rate 
+
+<img width="816" alt="Screenshot 2023-02-16 at 9 58 00 PM" src="https://user-images.githubusercontent.com/80999165/219538840-c828b2f9-360d-4057-ac70-0e6196bc132d.png">
+
+
+#### Monthly Churn Rate 
+
+<img width="819" alt="Screenshot 2023-02-16 at 9 57 51 PM" src="https://user-images.githubusercontent.com/80999165/219538951-7012271e-383e-4aea-a781-30f37ed419cd.png">
+
