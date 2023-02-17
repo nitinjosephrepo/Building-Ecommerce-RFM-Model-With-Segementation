@@ -68,3 +68,7 @@ alienating customers who have been consistent but may not spend as much with eac
 ## Compute and visualize relative importance of segment attributes
 
 <img width="576" alt="Screenshot 2023-02-16 at 10 15 31 PM" src="https://user-images.githubusercontent.com/80999165/219540712-a7905878-fdcc-4f53-af69-b3ad64458815.png">
+
+
+Zero is returned when cluster average = population average. As a ratio moves away from zero, the more important that attribute for defining a specific cluster compared to the population average. Thus, 'Monetary' is the most important attribute across three clusters except 'Churned' segment. 'Recency' is the least important for 'New' and 'Middle' clusters but the most important for 'Churned' segment. 'Frequency' is the third important attribute for 'Churned', 'Middle' and 'New' clusters and second important for 'Loyal' segment. 'Tenure' is the least important attribute for 'Churned' and 'Loyal' clusters, and second important for 'Middle' and 'New' segments.
+
