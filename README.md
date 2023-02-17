@@ -64,3 +64,7 @@ alienating customers who have been consistent but may not spend as much with eac
 
 
 <img width="450" alt="Screenshot 2023-02-16 at 10 04 16 PM" src="https://user-images.githubusercontent.com/80999165/219540416-4a9a0c31-a950-4526-b869-cb8ccc94d4bd.png">
+
+## Compute and visualize relative importance of segment attributes
+
+<img width="576" alt="Screenshot 2023-02-16 at 10 15 31 PM" src="https://user-images.githubusercontent.com/80999165/219540712-a7905878-fdcc-4f53-af69-b3ad64458815.png">
